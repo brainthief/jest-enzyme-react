@@ -45,6 +45,4 @@ describe('App Component', () => {
         const newValue = classInstance.exampleMethod_returnsAValue(6);
         expect(newValue).toBe(7);
     });
-
-
 }); 
